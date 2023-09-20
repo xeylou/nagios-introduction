@@ -1,6 +1,6 @@
 <div align="center"> 
   <img src="https://www.nagios.org/wp-content/uploads/2023/03/nagios-full-black.svg" alt="nagios logo" width="170">
-  <h1>centreon it overview</h1>
+  <h1>nagios introduction</h1>
   <br>
 </div>
 
