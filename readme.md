@@ -4,7 +4,7 @@
   <br>
 </div>
 
-> **Note** 
+> [!NOTE]
 > This repository contains ressources from an [article on my website](https://xeylou.fr/posts/nagios-introduction).  
 > You are welcome to contact me about it in french or in english.
 
